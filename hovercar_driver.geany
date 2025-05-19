@@ -29,10 +29,10 @@ long_line_column=80
 
 [files]
 current_page=0
-FILE_NAME_0=0;C++;0;EUTF-8;0;1;0;%2Fhome%2Fubuntu%2FHoverCar_ws_cm%2Fsrc%2Fhovercar_driver%2Fsrc%2Fhovercar_driver_node.cpp;0;4
+FILE_NAME_0=522;C++;0;EUTF-8;0;1;0;%2Fhome%2Fubuntu%2FHoverCar_ws_cm%2Fsrc%2Fhovercar_driver%2Fsrc%2Fhovercar_driver_node.cpp;0;4
 
 [VTE]
-last_dir=/home/ubuntu
+last_dir=/home/ubuntu/HoverCar_ws_cm/src/hovercar_driver/src
 
 [prjorg]
 source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;*.m;
